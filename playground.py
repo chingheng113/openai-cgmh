@@ -1,7 +1,7 @@
 import openai
 import sys
 
-openai.api_key = "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"
+openai.api_key = ""
 model_engine = "text-davinci-003"
 prompt = "what is hypertension"
 
