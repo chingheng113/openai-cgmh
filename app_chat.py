@@ -24,3 +24,7 @@ def index():
 
 def generate_prompt(simple_prompt):
     return simple_prompt
+
+
+if __name__ == "__main__":
+    app.run(host="0.0.0.0", port=80)
