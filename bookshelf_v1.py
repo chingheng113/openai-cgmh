@@ -8,7 +8,7 @@ import torch
 import numpy as np
 
 
-openai.api_key = "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"
+openai.api_key =
 model_engine = "gpt-3.5-turbo-0301"
 embedder = SentenceTransformer('all-MiniLM-L6-v2')
 
